@@ -5,13 +5,10 @@
 
 Here are some ideas to get you started:
 -->
+![Berg Image](assets/berg.jpg)
 
-I'm a teacher at Lane Tech College Prep High School
+1. I'm a teacher at Lane Tech College Prep High School
 Go, Lane, Go!!
 
-- 🔭 I’m currently working on Robotics, always FRC Robotics
-- 🌱 I’m currently learning everything AI
-- 📫 How to reach me: rberg@cps.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got my job from a bearded man with a dog
+2. 
 
