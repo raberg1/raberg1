@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Everyone!! Rob Berg here, father, husband, teacher, roboticist, ultimate player, lifelong learning
 
 <!--
 **raberg1/raberg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
